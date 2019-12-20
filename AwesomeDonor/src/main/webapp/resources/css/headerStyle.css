@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+        .nav-item{
+          background-color: rgb(56, 65, 65);
+        }
+
+        #join {
+            background-color: darkgoldenrod;
+        }
+        #data {
+            background-color: antiquewhite;
+        }
+        .bd-example {
+            margin: 30px 72px 10px 72px; 
+            background-color: darkgray;
+        }
